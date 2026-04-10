@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 Max curriculum.md",
+                "file": "docs/utilities/color.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6 Max curriculum"
+              "title": "color"
             }
           }
         ]
@@ -179,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d685f90ac6d14fbe",
+  "active": "ea1cc2ffba4d66fa",
   "lastOpenFiles": [
+    "docs/6 Max curriculum.md",
     "docs/Testing1234.md",
-    "6 Max curriculum.md",
     "CNAME",
     "/CNAME",
     "Untitled",
