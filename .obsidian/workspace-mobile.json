@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/6-Max NL Hold'em Curriculum/1.1.1 The Bottom-Up Learning Model.md",
+                "file": "docs/6-Max NL Hold'em Curriculum/1.1.2 The Tripartite Framework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1.1 The Bottom-Up Learning Model"
+              "title": "1.1.2 The Tripartite Framework"
             }
           }
         ]
@@ -100,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "fdd1e08e0262a126",
@@ -179,13 +179,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f9640f21bd8d3f01",
+  "active": "d685f90ac6d14fbe",
   "lastOpenFiles": [
+    "README.md",
+    "docs/6-Max NL Hold'em Curriculum/1.1.1 The Bottom-Up Learning Model.md",
     "Index.md",
     "index.md",
     "CODE_OF_CONDUCT.md",
     "docs/6-Max NL Hold'em Curriculum/1.1.2 The Tripartite Framework.md",
-    "docs/6-Max NL Hold'em Curriculum/1.1.1 The Bottom-Up Learning Model.md",
     "docs/6-Max NL Hold'em Curriculum",
     "/_config.yml",
     "docs/Testing1234.md",
@@ -216,7 +217,6 @@
     "docs/navigation/parents.md",
     "docs/navigation/main/yu.md",
     "docs/navigation/main/yt.md",
-    "docs/navigation/main/ys.md",
     "assets/images/small-image.jpg",
     "assets/images/large-image.jpg"
   ]
