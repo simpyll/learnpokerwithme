@@ -53,7 +53,7 @@
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
-            "extraContext": false,
+            "extraContext": true,
             "sortOrder": "alphabetical"
           },
           "icon": "lucide-search",
@@ -100,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "fdd1e08e0262a126",
@@ -179,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00c8bff8133cf701",
+  "active": "ea1cc2ffba4d66fa",
   "lastOpenFiles": [
+    "Untitled",
     "docs/Testing1234.md",
     "spec/support/spec_summary.rb",
     "spec/support/jekyll.rb",
@@ -216,7 +217,6 @@
     "docs/navigation/main/y.md",
     "docs/navigation/main/xu.md",
     "docs/navigation/main/xt.md",
-    "docs/navigation/main/xs.md",
     "assets/images/small-image.jpg",
     "assets/images/large-image.jpg"
   ]
