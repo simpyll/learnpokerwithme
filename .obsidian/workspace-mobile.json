@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/utilities/color.md",
+                "file": "docs/6_Max_curriculum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "color"
+              "title": "6_Max_curriculum"
             }
           }
         ]
@@ -179,9 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea1cc2ffba4d66fa",
+  "active": "d685f90ac6d14fbe",
   "lastOpenFiles": [
-    "docs/6 Max curriculum.md",
+    "docs/utilities/color.md",
+    "docs/6_Max_curriculum.md",
     "docs/Testing1234.md",
     "CNAME",
     "/CNAME",
@@ -199,7 +200,6 @@
     "docs/utilities/responsive-modifiers.md",
     "docs/utilities/layout.md",
     "docs/utilities/index.md",
-    "docs/utilities/color.md",
     "docs/ui-components/typography.md",
     "docs/ui-components/tables.md",
     "docs/ui-components/lists.md",
