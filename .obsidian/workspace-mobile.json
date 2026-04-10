@@ -100,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "fdd1e08e0262a126",
@@ -179,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea1cc2ffba4d66fa",
+  "active": "f9640f21bd8d3f01",
   "lastOpenFiles": [
     "Index.md",
     "index.md",
