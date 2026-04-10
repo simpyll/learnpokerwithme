@@ -197,6 +197,8 @@
   "active": "8cfe1cd055b5eab2",
   "lastOpenFiles": [
     "docs/6_max_nl_holdem_curriculum.md",
+    "index.md",
+    "CODE_OF_CONDUCT.md",
     "docs/6-Max NL Hold'em Curriculum/1.1.2 The Tripartite Framework.md",
     "docs/6-Max NL Hold'em Curriculum/1.1.1 The Bottom-Up Learning Model.md",
     "docs/6-Max NL Hold'em Curriculum",
@@ -211,7 +213,6 @@
     "spec/accessibility_spec.rb",
     "package.json",
     "package-lock.json",
-    "index.md",
     "fixtures/README.md",
     "docs/utilities/typography.md",
     "docs/utilities/responsive-modifiers.md",
@@ -231,7 +232,6 @@
     "docs/navigation/main/yu.md",
     "docs/navigation/main/yt.md",
     "docs/navigation/main/ys.md",
-    "docs/navigation/main/y.md",
     "assets/images/small-image.jpg",
     "assets/images/large-image.jpg"
   ]
