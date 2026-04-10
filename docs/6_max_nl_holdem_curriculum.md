@@ -1,4 +1,4 @@
-# Comprehensive 6-Max No-Limit Hold'em Cash Game Curriculum
+# 6-Max No-Limit Hold'em Cash Game Curriculum
 
 ## Part 1: Epistemology & Quantitative Foundations
 
