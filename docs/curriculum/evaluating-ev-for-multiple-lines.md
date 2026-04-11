@@ -1,6 +1,6 @@
 ---
 parent: Curriculum
-title: 1.2.3 Evaluating EV for Multiple Lines - Fold Call & Raise
+title: 1.2.3 EV for Multiple Lines - Fold Call & Raise
 nav_order: 5
 ---
 

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/curriculum/the-rule-of-2-and-4.md",
+                "file": "docs/curriculum/evaluating-ev-for-multiple-lines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the-rule-of-2-and-4"
+              "title": "evaluating-ev-for-multiple-lines"
             }
           }
         ],
@@ -196,8 +196,8 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
-    "docs/curriculum/evaluating-ev-for-multiple-lines.md",
     "docs/curriculum/the-rule-of-2-and-4.md",
+    "docs/curriculum/evaluating-ev-for-multiple-lines.md",
     "/_config.yml",
     "docs/curriculum/expected-value-ev-and-decision-theory.md",
     "docs/curriculum/the-tripartite-framework.md",
