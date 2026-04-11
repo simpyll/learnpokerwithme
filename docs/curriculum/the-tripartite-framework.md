@@ -1,9 +1,8 @@
 ---
-title: The Tripartite Framework
+title: 1.1.2 The Tripartite Framework of Poker Success
 parent: Curriculum
 nav_order: 2
 ---
-
 ### The Tripartite Framework of Poker Success in 6-Max No Limit Hold'em
 ### I. Technical Skill Acquisition and Implementation
 The technical domain encompasses the mathematical and theoretical competencies required for positive expected value (+EV) decision-making.

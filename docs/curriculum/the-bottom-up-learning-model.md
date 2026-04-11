@@ -1,5 +1,5 @@
 ---
-title: The Bottom-Up Learning Model
+title: 1.1.1 Pokers Bottom-Up Learning Model
 parent: Curriculum
 nav_order: 1
 ---
