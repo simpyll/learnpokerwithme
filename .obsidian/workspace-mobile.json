@@ -196,6 +196,8 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
+    "/_includes/head_custom.html",
+    "/_includes",
     "docs/curriculum/the-rule-of-2-and-4.md",
     "docs/curriculum/evaluating-ev-for-multiple-lines.md",
     "/_config.yml",
@@ -224,14 +226,12 @@
     "CNAME",
     "/CNAME",
     "spec/support/spec_summary.rb",
-    "spec/support/jekyll.rb",
     "fixtures/README.md",
     "docs/utilities/typography.md",
     "docs/utilities/responsive-modifiers.md",
     "docs/utilities/layout.md",
     "docs/utilities/index.md",
     "docs/ui-components/typography.md",
-    "docs/ui-components/tables.md",
     "assets/images/small-image.jpg",
     "assets/images/large-image.jpg"
   ]
