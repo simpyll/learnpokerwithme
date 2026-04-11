@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/curriculum/evaluating-ev-for-multiple-lines.md",
-                "mode": "source",
+                "file": "docs/curriculum/converting-odds-to-percentages-and-required-equity.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "evaluating-ev-for-multiple-lines"
+              "title": "converting-odds-to-percentages-and-required-equity"
             }
           }
         ],
@@ -196,10 +196,11 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
+    "docs/curriculum/evaluating-ev-for-multiple-lines.md",
+    "docs/curriculum/converting-odds-to-percentages-and-required-equity.md",
     "/_includes/head_custom.html",
     "/_includes",
     "docs/curriculum/the-rule-of-2-and-4.md",
-    "docs/curriculum/evaluating-ev-for-multiple-lines.md",
     "/_config.yml",
     "docs/curriculum/expected-value-ev-and-decision-theory.md",
     "docs/curriculum/the-tripartite-framework.md",
@@ -225,7 +226,6 @@
     "docs/utilities/color.md",
     "CNAME",
     "/CNAME",
-    "spec/support/spec_summary.rb",
     "fixtures/README.md",
     "docs/utilities/typography.md",
     "docs/utilities/responsive-modifiers.md",
