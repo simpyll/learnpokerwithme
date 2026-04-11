@@ -4,7 +4,7 @@ title: 1.2.3 Evaluating EV for Multiple Lines - Fold Call & Raise
 nav_order: 5
 ---
 
-# Evaluating Multiple Lines: EV of Fold vs. Call vs. Raise in 6-Max No Limit Hold'em
+# Evaluating Multiple Lines: EV of Fold vs. Call vs. Raise
 
 ## I. The Mathematical Baseline: EV of Folding ($EV_{fold}$)
 Within decision theory applied to No Limit Hold'em, the action of folding constitutes a terminal node that mathematically yields an Expected Value of exactly zero. 
