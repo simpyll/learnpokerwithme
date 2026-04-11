@@ -7,8 +7,24 @@ nav_order: 3
 
 ### I. Mathematical Definition of Expected Value
 Expected Value is the statistical measure of the average magnitude of the financial return of a given action over an infinite sample size. The foundational formula is expressed as:
+
+```math
 $$EV = \sum_{i=1}^{n} P(x_i) \cdot V(x_i)$$
-where $P(x_i)$ represents the absolute probability of outcome $i$, and $V(x_i)$ represents the monetary value or chip utility of outcome $i$.
+```
+
+where 
+```math
+$P(x_i)$ 
+``` 
+represents the absolute probability of outcome,
+```math
+$i$
+```
+and 
+```math 
+$V(x_i)$ 
+``` 
+represents the monetary value or chip utility of outcome $i$.
 
 ### II. Core Variables in Poker Decision Theory
 The calculation of EV in a No Limit Hold'em framework requires the synthesis of discrete variables across specific game tree nodes.
