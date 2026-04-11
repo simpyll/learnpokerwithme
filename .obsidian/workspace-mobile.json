@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/curriculum/the-bottom-up-learning-model.md",
+                "file": "docs/curriculum/expected-value-ev-and-decision-theory.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the-bottom-up-learning-model"
+              "title": "expected-value-ev-and-decision-theory"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "d685f90ac6d14fbe",
   "lastOpenFiles": [
-    "docs/curriculum/index.md",
     "docs/curriculum/the-bottom-up-learning-model.md",
+    "docs/curriculum/expected-value-ev-and-decision-theory.md",
+    "docs/curriculum/index.md",
     "docs/curriculum/the-tripartite-framework.md",
     "docs/6-Max NL Hold'em Curriculum/1.1.2 The Tripartite Framework.md",
     "/docs/curriculum/index.md",
@@ -216,7 +217,6 @@
     "docs/ui-components/lists.md",
     "docs/ui-components/labels.md",
     "docs/ui-components/index.md",
-    "docs/ui-components/code/line-numbers.md",
     "assets/images/small-image.jpg",
     "assets/images/large-image.jpg"
   ]
