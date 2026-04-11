@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/curriculum/evaluating-ev-for-multiple-lines.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -196,6 +196,7 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
+    "/_config.yml",
     "docs/curriculum/expected-value-ev-and-decision-theory.md",
     "docs/curriculum/evaluating-ev-for-multiple-lines.md",
     "docs/curriculum/the-tripartite-framework.md",
@@ -217,7 +218,6 @@
     "index.md",
     "CODE_OF_CONDUCT.md",
     "docs/6-Max NL Hold'em Curriculum",
-    "/_config.yml",
     "docs/Testing1234.md",
     "docs/utilities/color.md",
     "CNAME",
@@ -231,7 +231,6 @@
     "docs/utilities/index.md",
     "docs/ui-components/typography.md",
     "docs/ui-components/tables.md",
-    "docs/ui-components/lists.md",
     "assets/images/small-image.jpg",
     "assets/images/large-image.jpg"
   ]
