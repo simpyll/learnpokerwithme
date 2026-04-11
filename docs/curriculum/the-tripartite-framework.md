@@ -19,3 +19,5 @@ The financial domain governs the mathematical parameters required to ensure oper
  * **Variance-Adjusted Capitalization:** The maintenance of a capital reserve statistically sufficient to absorb standard downswings inherent in 6-max No Limit Hold'em, typically necessitating a minimum of 40 to 100 buy-ins for a given stake limit to ensure statistical viability.
  * **Risk of Ruin Formulaic Application:** The utilization of standard deviation, win rate (expressed in bb/100), and total capital to calculate the probability of total bankroll depletion, dictating strict boundaries for stake ascension and descension.
  * **Fractional Kelly Criterion:** The theoretical framework applied to scale risk in proportion to statistical advantage, modified to account for the asymmetric risk profiles and standard deviation metrics specific to short-handed online environments.
+
+

@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/curriculum/index.md",
+                "file": "docs/curriculum/the-tripartite-framework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "the-tripartite-framework"
+            }
+          },
+          {
+            "id": "0767e69ab83f4bb3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,14 +190,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d685f90ac6d14fbe",
+  "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
+    "docs/curriculum/the-tripartite-framework.md",
+    "docs/curriculum/index.md",
     "docs/curriculum/expected-value-ev-and-decision-theory.md",
     "Index.md",
-    "docs/curriculum/index.md",
     "docs/curriculum/the-expected-value-ev-equation.md",
     "docs/curriculum/the-bottom-up-learning-model.md",
-    "docs/curriculum/the-tripartite-framework.md",
     "docs/6-Max NL Hold'em Curriculum/1.1.2 The Tripartite Framework.md",
     "/docs/curriculum/index.md",
     "/docs/curriculum/1.1.2-the-tripartite-framework.md",
