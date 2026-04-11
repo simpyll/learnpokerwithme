@@ -3,7 +3,7 @@ title: 1.2.1 Expected Value (EV) and Decision Theory
 parent: Curriculum
 nav_order: 3
 ---
-### Expected Value (EV) and Decision Theory in No Limit Hold'em
+## Expected Value (EV) and Decision Theory in No Limit Hold'em
 ### I. Mathematical Definition of Expected Value
 Expected Value is the statistical measure of the average magnitude of the financial return of a given action over an infinite sample size. The foundational formula is expressed as:
 
