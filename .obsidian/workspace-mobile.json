@@ -25,10 +25,14 @@
             "id": "0767e69ab83f4bb3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/curriculum/evaluating-ev-for-multiple-lines.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "evaluating-ev-for-multiple-lines"
             }
           }
         ],
@@ -192,12 +196,13 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
-    "docs/curriculum/the-tripartite-framework.md",
-    "docs/curriculum/index.md",
     "docs/curriculum/expected-value-ev-and-decision-theory.md",
-    "Index.md",
+    "docs/curriculum/evaluating-ev-for-multiple-lines.md",
+    "docs/curriculum/the-tripartite-framework.md",
     "docs/curriculum/the-expected-value-ev-equation.md",
     "docs/curriculum/the-bottom-up-learning-model.md",
+    "docs/curriculum/index.md",
+    "Index.md",
     "docs/6-Max NL Hold'em Curriculum/1.1.2 The Tripartite Framework.md",
     "/docs/curriculum/index.md",
     "/docs/curriculum/1.1.2-the-tripartite-framework.md",
@@ -227,7 +232,6 @@
     "docs/ui-components/typography.md",
     "docs/ui-components/tables.md",
     "docs/ui-components/lists.md",
-    "docs/ui-components/labels.md",
     "assets/images/small-image.jpg",
     "assets/images/large-image.jpg"
   ]
