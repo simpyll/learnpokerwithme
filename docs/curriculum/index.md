@@ -1,5 +1,5 @@
 ---
-title: curriculum
+title: Curriculum
 nav_order: 3
 ---
 
