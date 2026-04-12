@@ -6,9 +6,7 @@ description: 6-Max No-Limit Hold'em Cash Game Theory & Practice
 permalink: /
 ---
 
-## LearnPokerWithMe.com
-
-Oh hey, David here. 👋
+## Oh hey, David here. 👋
 
 Welcome. 
 
