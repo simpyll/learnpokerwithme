@@ -1,6 +1,6 @@
 ---
 parent: Curriculum
-title: 1.3.2 Converting Odds to Percentages and Required Equity
+title: 1.3.2 Converting Odds to Percent & Required Equity
 nav_order: 6
 ---
 # Converting Odds to Percentages and Required Equity
