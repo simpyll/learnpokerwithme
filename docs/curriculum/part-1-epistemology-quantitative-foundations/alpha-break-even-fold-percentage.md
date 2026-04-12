@@ -1,5 +1,5 @@
 ---
-parent: Curriculum
+parent: Part 1 - Epistemology & Quantitative Foundations
 title: 1.4.2 Alpha (Break-even Fold Percentage)
 nav_order: 12
 ---
