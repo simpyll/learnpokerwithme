@@ -4,7 +4,7 @@ title: 1.3.5 Realized Equity (EQR) The Gap Between Raw Equity and EV
 nav_order: 9
 ---
 
-# Realized Equity (EQR): The Gap Between Raw Equity and EV
+# Realized Equity (EQR): Raw Equity vs. EV
 
 ## I. Theoretical Definition and the EQR Coefficient
 Raw Equity ($$E$$) constitutes a static mathematical probability assuming a localized node proceeds to showdown without subsequent betting action. Realized Equity (EQR) introduces a dynamic coefficient to quantify the exact fraction of that theoretical pot share a hand will mathematically capture across a multi-street game tree. 

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/curriculum/alpha-break-even-fold-percentage.md",
+                "file": "docs/curriculum/realized-equity-eqr-the-gap-between-raw-equity-and-ev.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "alpha-break-even-fold-percentage"
+              "title": "realized-equity-eqr-the-gap-between-raw-equity-and-ev"
             }
           }
         ],
@@ -196,8 +196,8 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
-    "docs/curriculum/minimum-defense-frequency-mdf.md",
     "docs/curriculum/alpha-break-even-fold-percentage.md",
+    "docs/curriculum/minimum-defense-frequency-mdf.md",
     "docs/to-do.md",
     "/_config.yml",
     "docs/curriculum/factors-degrading-realized-equity-eqr.md",
