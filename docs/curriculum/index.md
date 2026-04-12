@@ -20,7 +20,8 @@ nav_order: 1
 - Converting odds to percentages and required equity.
 - Implied Odds vs. Reverse Implied Odds.
 - Standard Deviation, Risk of Ruin, and Kelly Criterion applications.
-- Realized Equity (EQR): The gap between Raw Equity and EV. Factors that degrade EQR (Position, Playability, Multiway Dynamics, Opponent Aggression).
+- Realized Equity (EQR): The gap between Raw Equity and EV. 
+- Factors that degrade EQR (Position, Playability, Multiway Dynamics, Opponent Aggression).
 
 ### 1.4 Pot Odds and Theoretical Defense
 - Minimum Defense Frequency (MDF): MDF = Pot / (Pot + Bet).
