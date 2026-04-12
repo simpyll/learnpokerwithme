@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/curriculum/realized-equity-eqr-the-gap-between-raw-equity-and-ev.md",
+                "file": "docs/curriculum/calculating-hand-combinations.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "realized-equity-eqr-the-gap-between-raw-equity-and-ev"
+              "title": "calculating-hand-combinations"
             }
           }
         ],
@@ -196,6 +196,8 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
+    "docs/curriculum/realized-equity-eqr-the-gap-between-raw-equity-and-ev.md",
+    "docs/curriculum/calculating-hand-combinations.md",
     "docs/curriculum/alpha-break-even-fold-percentage.md",
     "docs/curriculum/minimum-defense-frequency-mdf.md",
     "docs/to-do.md",
@@ -213,7 +215,6 @@
     "docs/minimal-test.md",
     "docs/index-test.md",
     "docs/configuration.md",
-    "docs/curriculum/realized-equity-eqr-the-gap-between-raw-equity-and-ev.md",
     "docs/curriculum/index.md",
     "docs/curriculum/standard-deviation-risk-of-ruin-and-kelly-criterion.md",
     "docs/curriculum/evaluating-ev-for-multiple-lines.md",
@@ -224,7 +225,6 @@
     "docs/curriculum/the-rule-of-2-and-4.md",
     "docs/curriculum/the-tripartite-framework.md",
     "docs/curriculum/the-expected-value-ev-equation.md",
-    "docs/curriculum/the-bottom-up-learning-model.md",
     "docs/curriculum",
     "/docs/curriculum",
     "/docs/6-Max NL Hold'em Curriculum",
