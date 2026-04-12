@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/curriculum/factors-degrading-realized-equity-eqr.md",
-                "mode": "source",
+                "file": "docs/curriculum/minimum-defense-frequency-mdf.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "factors-degrading-realized-equity-eqr"
+              "title": "minimum-defense-frequency-mdf"
             }
           }
         ],
@@ -197,6 +197,8 @@
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
     "docs/to-do.md",
+    "docs/curriculum/minimum-defense-frequency-mdf.md",
+    "/_config.yml",
     "docs/curriculum/factors-degrading-realized-equity-eqr.md",
     "README.md",
     "/README.md",
@@ -219,12 +221,10 @@
     "/_includes/head_custom.html",
     "/_includes",
     "docs/curriculum/the-rule-of-2-and-4.md",
-    "/_config.yml",
     "docs/curriculum/the-tripartite-framework.md",
     "docs/curriculum/the-expected-value-ev-equation.md",
     "docs/curriculum/the-bottom-up-learning-model.md",
     "docs/6-Max NL Hold'em Curriculum/1.1.2 The Tripartite Framework.md",
-    "/docs/curriculum/index.md",
     "docs/curriculum",
     "/docs/curriculum",
     "/docs/6-Max NL Hold'em Curriculum",
