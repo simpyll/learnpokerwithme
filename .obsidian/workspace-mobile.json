@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/to-do.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "to-do"
+              "title": "README"
             }
           }
         ],
@@ -196,14 +196,15 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
+    "docs/to-do.md",
+    "README.md",
+    "/README.md",
     "Index.md",
     "docs/curriculum/converting-odds-to-percentage-and-required-equity.md",
     "docs/search.md",
-    "docs/to-do.md",
     "CODE_OF_CONDUCT.md",
     "CHANGELOG.md",
     "MIGRATION.md",
-    "README.md",
     "docs/customization.md",
     "docs/minimal-test.md",
     "docs/index-test.md",
@@ -224,7 +225,6 @@
     "docs/6-Max NL Hold'em Curriculum/1.1.2 The Tripartite Framework.md",
     "/docs/curriculum/index.md",
     "/docs/curriculum/1.1.2-the-tripartite-framework.md",
-    "/docs/curriculum/1.1.1-the-bottom-up-learning-model.md",
     "docs/curriculum",
     "/docs/curriculum",
     "/docs/6-Max NL Hold'em Curriculum",
