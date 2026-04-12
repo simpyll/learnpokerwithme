@@ -1,5 +1,5 @@
 ---
-title: Part 1 - Epistemology & Quantitative Foundations
+title: Part-1
 parent: Curriculum
 nav_order: 1
 ---
