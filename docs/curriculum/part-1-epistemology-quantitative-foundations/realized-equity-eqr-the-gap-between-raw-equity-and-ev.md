@@ -1,5 +1,5 @@
 ---
-parent: Curriculum
+parent: Part 1 - Epistemology & Quantitative Foundations
 title: 1.3.5 Realized Equity (EQR) The Gap Between Raw Equity and EV
 nav_order: 9
 ---

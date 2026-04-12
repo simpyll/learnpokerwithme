@@ -1,5 +1,5 @@
 ---
-parent: Curriculum
+parent: Part 1 - Epistemology & Quantitative Foundations
 title: 1.3.6 Factors Degrading EQR
 nav_order: 10
 ---

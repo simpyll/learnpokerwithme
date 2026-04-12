@@ -1,6 +1,6 @@
 ---
 title: 1.1.1 Pokers Bottom-Up Learning Model
-parent: Curriculum
+parent: Part 1 - Epistemology & Quantitative Foundations
 nav_order: 1
 ---
 

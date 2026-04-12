@@ -1,6 +1,6 @@
 ---
 title: 1.1.2 The Tripartite Framework of Poker Success
-parent: Curriculum
+parent: Part 1 - Epistemology & Quantitative Foundations
 nav_order: 2
 ---
 ## The Tripartite Framework of Poker Success in 6-Max No Limit Hold'em

@@ -1,5 +1,5 @@
 ---
-parent: Curriculum
+parent: Part 1 - Epistemology & Quantitative Foundations
 title: 1.3.1 The Rule of 2 and 4 (and Statistical Deviations)
 nav_order: 5
 aliases:

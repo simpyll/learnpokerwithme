@@ -1,6 +1,6 @@
 ---
 title: 1.2.2 The Expected Value (EV) Equation
-parent: Curriculum
+parent: Part 1 - Epistemology & Quantitative Foundations
 nav_order: 4
 ---
 ## The Expected Value (EV) Equation

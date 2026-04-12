@@ -1,5 +1,5 @@
 ---
-parent: Curriculum
+parent: Part 1 - Epistemology & Quantitative Foundations
 title: 1.3.3 Implied Odds vs. Reverse Implied Odds
 nav_order: 7
 ---

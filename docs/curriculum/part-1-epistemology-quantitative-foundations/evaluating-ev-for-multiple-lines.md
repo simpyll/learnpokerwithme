@@ -1,5 +1,5 @@
 ---
-parent: Curriculum
+parent: Part 1 - Epistemology & Quantitative Foundations
 title: 1.2.3 EV for Multiple Lines - Fold Call & Raise
 nav_order: 5
 ---

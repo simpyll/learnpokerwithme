@@ -1,5 +1,5 @@
 ---
-parent: Curriculum
+parent: Part 1 - Epistemology & Quantitative Foundations
 title: 1.5.1 Calculating Hand Combinations
 nav_order: 13
 ---

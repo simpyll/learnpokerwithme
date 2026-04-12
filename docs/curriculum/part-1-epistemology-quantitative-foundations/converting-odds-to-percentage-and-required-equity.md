@@ -1,5 +1,5 @@
 ---
-parent: Curriculum
+parent: Part 1 - Epistemology & Quantitative Foundations
 title: 1.3.2 Converting Odds to Percent & Required Equity
 nav_order: 6
 ---

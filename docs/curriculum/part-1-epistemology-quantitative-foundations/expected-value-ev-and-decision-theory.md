@@ -1,6 +1,6 @@
 ---
 title: 1.2.1 Expected Value (EV) and Decision Theory
-parent: Curriculum
+parent: Part 1 - Epistemology & Quantitative Foundations
 nav_order: 3
 ---
 ### Expected Value (EV) and Decision Theory in 6-Max No Limit Hold'em

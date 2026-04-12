@@ -1,5 +1,5 @@
 ---
-parent: Curriculum
+parent: Part 1 - Epistemology & Quantitative Foundations
 title: 1.4.1 Minimum Defense Frequency (MDF)
 nav_order: 11
 ---

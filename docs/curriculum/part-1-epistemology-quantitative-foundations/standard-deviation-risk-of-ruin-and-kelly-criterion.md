@@ -1,5 +1,5 @@
 ---
-parent: Curriculum
+parent: Part 1 - Epistemology & Quantitative Foundations
 title: 1.3.4 Standard Deviation Risk of Ruin & Kelly Criterion
 nav_order: 8
 ---
