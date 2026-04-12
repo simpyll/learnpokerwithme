@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/curriculum/converting-odds-to-percentage-and-required-equity.md",
+                "file": "docs/curriculum/standard-deviation-risk-of-ruin-and-kelly-criterion.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "converting-odds-to-percentage-and-required-equity"
+              "title": "standard-deviation-risk-of-ruin-and-kelly-criterion"
             }
           }
         ],
@@ -196,8 +196,9 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
-    "docs/curriculum/evaluating-ev-for-multiple-lines.md",
     "docs/curriculum/converting-odds-to-percentage-and-required-equity.md",
+    "docs/curriculum/standard-deviation-risk-of-ruin-and-kelly-criterion.md",
+    "docs/curriculum/evaluating-ev-for-multiple-lines.md",
     "docs/curriculum/implied-odds-vs-reverse-implied-odds.md",
     "docs/curriculum/expected-value-ev-and-decision-theory.md",
     "/_includes/head_custom.html",
@@ -231,7 +232,6 @@
     "docs/utilities/typography.md",
     "docs/utilities/responsive-modifiers.md",
     "docs/utilities/layout.md",
-    "docs/utilities/index.md",
     "assets/images/small-image.jpg",
     "assets/images/large-image.jpg"
   ]
