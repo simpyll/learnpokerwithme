@@ -16,8 +16,8 @@
 title: Learn Poker With Me
 description: 6 Max NL Holdem Documentation
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://just-the-docs.com" # the base hostname & protocol for your site, e.g. http://example.com
-repository: just-the-docs/just-the-docs # for github-metadata
+url: "https://learnpokerwithme.com" # the base hostname & protocol for your site, e.g. http://example.com
+repository: simpyll/learnpokerwithme # for github-metadata
 
 permalink: pretty
 
@@ -113,8 +113,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "https://github.com/just-the-docs/just-the-docs"
+  "LearnPokerWithMe on GitHub":
+    - "https://github.com/simpyll/learnpokerwithme"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -129,8 +129,8 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
-  - title: Just the Docs on GitHub
-    url: https://github.com/just-the-docs/just-the-docs
+  - title: Learn Poker With Me
+    url: https://github.com/simpyll/learnpokerwithme 
 
 # Show navigation error report
 nav_error_report: true # default is false/nil.
@@ -155,7 +155,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/just-the-docs/just-the-docs" # the github URL for your repo
+gh_edit_repository: "https://github.com/simpyll/learnpokerwithme" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
