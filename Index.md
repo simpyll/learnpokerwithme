@@ -18,6 +18,6 @@ I'm starting at 2nl with a comfortable bankroll of $450 (225 buyins). The goal i
 
 Currently I'm in the process of fleshing out a 'no stone unturned' [curriculum](https://learnpokerwithme.com/docs/curriculum/) on this game. 
 
-Lastly, I plan on using this platform to learn about topics like optimizing poker study, hand reviews, HUD stats, and even a personal tilt journal.
+Lastly, I plan on using this platform to learn about topics like optimizing poker study, hand reviews, HUD stats, a personal tilt journal, and [many other topics](https://learnpokerwithme.com/docs/future-study-topics/).
 
 Feel free to follow along and learn poker with me.

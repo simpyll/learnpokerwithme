@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/poker-session-log.md",
-                "mode": "source",
+                "file": "Index.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "poker-session-log"
+              "title": "Index"
             }
           }
         ],
@@ -196,9 +196,9 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
+    "docs/future-study-topics.md",
     "Index.md",
     "docs/poker-session-log.md",
-    "docs/future-study-topics.md",
     "/_config.yml",
     "docs/curriculum/calculating-hand-combinations.md",
     "docs/curriculum/realized-equity-eqr-the-gap-between-raw-equity-and-ev.md",

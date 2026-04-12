@@ -2,7 +2,7 @@
 title: To Do
 nav_order: 3
 ---
-
+# Future Study Topics
 - Bet Sizing
 - multi-tabling 
 - bankroll management 
