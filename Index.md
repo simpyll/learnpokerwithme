@@ -8,6 +8,7 @@ permalink: /
 
 ## Oh hey, David here. 👋
 
+<br>
 Welcome. 
 
 This little piece of the internet was created as a central hub for me to learn about poker. 

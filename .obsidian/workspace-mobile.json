@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/future-study-topics.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "future-study-topics"
+              "title": "Index"
             }
           }
         ],
@@ -196,8 +196,11 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
-    "docs/poker-session-log.md",
+    "/_includes/components/footer.html",
+    "/_includes/components",
+    "/_includes",
     "docs/future-study-topics.md",
+    "docs/poker-session-log.md",
     "Index.md",
     "/_config.yml",
     "docs/curriculum/calculating-hand-combinations.md",
@@ -222,16 +225,13 @@
     "docs/curriculum/implied-odds-vs-reverse-implied-odds.md",
     "docs/curriculum/expected-value-ev-and-decision-theory.md",
     "/_includes/head_custom.html",
-    "/_includes",
     "docs/curriculum/the-rule-of-2-and-4.md",
-    "docs/curriculum/the-tripartite-framework.md",
     "docs/curriculum",
     "/docs/curriculum",
     "/docs/6-Max NL Hold'em Curriculum",
     "/docs",
     "docs/6-Max NL Hold'em Curriculum",
     "CNAME",
-    "/CNAME",
     "assets/images/small-image.jpg",
     "assets/images/large-image.jpg"
   ]
