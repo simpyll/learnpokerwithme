@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/curriculum/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Untitled"
             }
           }
         ],
@@ -196,6 +196,7 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
+    "docs/curriculum/Untitled.md",
     "docs/to-do.md",
     "README.md",
     "/README.md",
@@ -224,7 +225,6 @@
     "docs/curriculum/the-bottom-up-learning-model.md",
     "docs/6-Max NL Hold'em Curriculum/1.1.2 The Tripartite Framework.md",
     "/docs/curriculum/index.md",
-    "/docs/curriculum/1.1.2-the-tripartite-framework.md",
     "docs/curriculum",
     "/docs/curriculum",
     "/docs/6-Max NL Hold'em Curriculum",
