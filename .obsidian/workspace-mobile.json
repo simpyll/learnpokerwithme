@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/curriculum/Untitled.md",
+                "file": "docs/curriculum/factors-degrading-realized-equity-eqr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "factors-degrading-realized-equity-eqr"
             }
           }
         ],
@@ -196,8 +196,8 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
-    "docs/curriculum/Untitled.md",
     "docs/to-do.md",
+    "docs/curriculum/factors-degrading-realized-equity-eqr.md",
     "README.md",
     "/README.md",
     "Index.md",
