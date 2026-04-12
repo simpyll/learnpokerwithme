@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/curriculum/implied-odds-vs-reverse-implied-odds.md",
+                "file": "docs/curriculum/converting-odds-to-percentage-and-required-equity.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "implied-odds-vs-reverse-implied-odds"
+              "title": "converting-odds-to-percentage-and-required-equity"
             }
           }
         ],
@@ -196,10 +196,10 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
-    "docs/curriculum/expected-value-ev-and-decision-theory.md",
-    "docs/curriculum/implied-odds-vs-reverse-implied-odds.md",
-    "docs/curriculum/converting-odds-to-percentages-and-required-equity.md",
     "docs/curriculum/evaluating-ev-for-multiple-lines.md",
+    "docs/curriculum/converting-odds-to-percentage-and-required-equity.md",
+    "docs/curriculum/implied-odds-vs-reverse-implied-odds.md",
+    "docs/curriculum/expected-value-ev-and-decision-theory.md",
     "/_includes/head_custom.html",
     "/_includes",
     "docs/curriculum/the-rule-of-2-and-4.md",
