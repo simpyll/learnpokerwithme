@@ -14,7 +14,7 @@ My name is David. This website was created as a central hub for me to learn abou
 
 I'm currently in the process of fleshing out a 'no stone unturned' [Curriculum](https://learnpokerwithme.com/docs/curriculum/) on this game. 
 
-Additionally, I plan on using this platform as a to learn about topics like optimizing poker study, hand reviews, session reviews, and even a personal Tilt Journal.
+Additionally, I plan on using this platform to learn about topics like optimizing poker study, hand reviews, session reviews, and even a personal tilt journal.
 
 Feel free to follow along and learn poker with me.
 
