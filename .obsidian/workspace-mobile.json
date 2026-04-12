@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/to-do.md",
-                "mode": "source",
+                "file": "docs/curriculum/converting-odds-to-percentage-and-required-equity.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "to-do"
+              "title": "converting-odds-to-percentage-and-required-equity"
             }
           }
         ],
@@ -52,7 +52,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": true
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -196,8 +196,17 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
-    "docs/curriculum/realized-equity-eqr-the-gap-between-raw-equity-and-ev.md",
+    "docs/search.md",
     "docs/to-do.md",
+    "CODE_OF_CONDUCT.md",
+    "CHANGELOG.md",
+    "MIGRATION.md",
+    "README.md",
+    "docs/customization.md",
+    "docs/minimal-test.md",
+    "docs/index-test.md",
+    "docs/configuration.md",
+    "docs/curriculum/realized-equity-eqr-the-gap-between-raw-equity-and-ev.md",
     "docs/curriculum/index.md",
     "docs/curriculum/standard-deviation-risk-of-ruin-and-kelly-criterion.md",
     "docs/curriculum/converting-odds-to-percentage-and-required-equity.md",
@@ -216,22 +225,13 @@
     "/docs/curriculum/index.md",
     "/docs/curriculum/1.1.2-the-tripartite-framework.md",
     "/docs/curriculum/1.1.1-the-bottom-up-learning-model.md",
-    "/Index.md",
     "docs/curriculum",
     "/docs/curriculum",
     "/docs/6-Max NL Hold'em Curriculum",
     "/docs",
-    "README.md",
-    "docs/6-Max NL Hold'em Curriculum/1.1.1 The Bottom-Up Learning Model.md",
-    "index.md",
-    "CODE_OF_CONDUCT.md",
     "docs/6-Max NL Hold'em Curriculum",
-    "docs/Testing1234.md",
-    "docs/utilities/color.md",
     "CNAME",
     "/CNAME",
-    "fixtures/README.md",
-    "docs/utilities/typography.md",
     "assets/images/small-image.jpg",
     "assets/images/large-image.jpg"
   ]

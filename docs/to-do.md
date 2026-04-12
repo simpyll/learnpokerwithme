@@ -1,3 +1,8 @@
+---
+title: To Do
+nav_order: 2
+---
+
 - Bet Sizing
 - multi-tabling 
 - bankroll management 
@@ -5,4 +10,3 @@
 - Study group 
 - flop textures 
 - Quick Reference document math ranges preflop etc.
-- 
