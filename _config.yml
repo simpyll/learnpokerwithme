@@ -198,6 +198,7 @@ kramdown:
     block:
       line_numbers: false
   math_engine: mathjax
+  parse_block_html: true
 
 compress_html:
   clippings: all
