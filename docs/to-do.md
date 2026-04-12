@@ -1,0 +1,3 @@
+- Bet Sizing
+- multi-tabling 
+- bankroll management 
