@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "preview",
+                "file": "docs/poker-session-log.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "poker-session-log"
             }
           }
         ],
@@ -196,8 +196,8 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
-    "docs/poker-session-log.md",
     "Index.md",
+    "docs/poker-session-log.md",
     "docs/future-study-topics.md",
     "/_config.yml",
     "docs/curriculum/calculating-hand-combinations.md",
