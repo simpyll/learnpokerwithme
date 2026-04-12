@@ -1,5 +1,5 @@
 ---
-title: To Do
+title: Future Study Topics
 nav_order: 3
 ---
 # Future Study Topics
