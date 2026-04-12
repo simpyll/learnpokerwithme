@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Session Review Tool
+nav_order: 2
+has_children: true
 ---
 
 import { useState, useEffect, useRef, useCallback } from "react";
