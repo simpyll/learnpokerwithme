@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/future-study-topics.md",
+                "file": "docs/curriculum/part-1-epistemology-quantitative-foundations/using-combos-preflop-and-postflop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "future-study-topics"
+              "title": "using-combos-preflop-and-postflop"
             }
           }
         ],
@@ -196,6 +196,9 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
+    "docs/curriculum/part-1-epistemology-quantitative-foundations/implied-odds-vs-reverse-implied-odds.md",
+    "docs/curriculum/part-1-epistemology-quantitative-foundations/using-combos-preflop-and-postflop.md",
+    "docs/future-study-topics.md",
     "/docs/session-review-tool.md",
     "/docs",
     "docs/session-review-tool.md",
@@ -205,7 +208,6 @@
     "docs/session-review-tool.jsx",
     "docs/poker-session-log.md",
     "docs/curriculum/poker-books.md",
-    "docs/future-study-topics.md",
     "docs/Untitled",
     "docs/curriculum/index.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/the-tripartite-framework.md",
@@ -215,7 +217,6 @@
     "docs/curriculum/part-1-epistemology-quantitative-foundations/standard-deviation-risk-of-ruin-and-kelly-criterion.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/realized-equity-eqr-the-gap-between-raw-equity-and-ev.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/minimum-defense-frequency-mdf.md",
-    "docs/curriculum/part-1-epistemology-quantitative-foundations/implied-odds-vs-reverse-implied-odds.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/factors-degrading-realized-equity-eqr.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/expected-value-ev-and-decision-theory.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/evaluating-ev-for-multiple-lines.md",
