@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/curriculum/poker-books.md",
+                "file": "docs/future-study-topics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "poker-books"
+              "title": "future-study-topics"
             }
           }
         ],
@@ -196,11 +196,14 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
-    "docs/future-study-topics.md",
-    "docs/curriculum/poker-books.md",
-    "docs/Untitled",
-    "docs/poker-session-log.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/alpha-break-even-fold-percentage.md",
+    "/docs/session-review-tool.jsx",
+    "docs/session-review-tool.jsx",
+    "/docs",
+    "docs/poker-session-log.md",
+    "docs/curriculum/poker-books.md",
+    "docs/future-study-topics.md",
+    "docs/Untitled",
     "docs/curriculum/index.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/the-tripartite-framework.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/the-rule-of-2-and-4.md",
@@ -227,11 +230,7 @@
     "docs/search.md",
     "CODE_OF_CONDUCT.md",
     "CHANGELOG.md",
-    "MIGRATION.md",
     "/_includes/head_custom.html",
-    "docs/curriculum",
-    "/docs/curriculum",
-    "/docs/6-Max NL Hold'em Curriculum",
     "assets/images/small-image.jpg",
     "assets/images/large-image.jpg"
   ]
