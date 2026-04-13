@@ -5,12 +5,11 @@ nav_order: 2
 has_children: true
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>ACR Poker Hand Replayer</title>
+<title>Poker Hand Replayer</title>
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600;700&family=IBM+Plex+Mono:wght@400;600&display=swap');
 
@@ -352,7 +351,7 @@ has_children: true
 <!-- HEADER -->
 <div id="header">
   <span class="logo">♠</span>
-  <span class="title">ACR REPLAYER</span>
+  <span class="title">REPLAYER</span>
   <span class="subtitle">6-MAX CASH</span>
   <div class="spacer"></div>
   <span id="profit-pill" class="stat-pill"></span>
