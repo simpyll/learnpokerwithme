@@ -1,3 +1,10 @@
+---
+layout: default
+title: Session Review Tool
+nav_order: 2
+has_children: true
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
