@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/curriculum/part-1-epistemology-quantitative-foundations/Untitled.md",
-                "mode": "source",
+                "file": "docs/curriculum/part-1-epistemology-quantitative-foundations/unblocking.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "unblocking"
             }
           }
         ],
@@ -197,7 +197,7 @@
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
     "docs/curriculum/part-1-epistemology-quantitative-foundations/alpha-break-even-fold-percentage.md",
-    "docs/curriculum/part-1-epistemology-quantitative-foundations/Untitled.md",
+    "docs/curriculum/part-1-epistemology-quantitative-foundations/unblocking.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/blockers-effect-on-betting-and-bluffing.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/using-combos-preflop-and-postflop.md",
     "docs/session-review-tool4.md",
