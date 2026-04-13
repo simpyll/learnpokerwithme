@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/curriculum/part-1-epistemology-quantitative-foundations/using-combos-preflop-and-postflop.md",
-                "mode": "source",
+                "file": "docs/curriculum/part-1-epistemology-quantitative-foundations/blockers-effect-on-betting-and-bluffing.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "using-combos-preflop-and-postflop"
+              "title": "blockers-effect-on-betting-and-bluffing"
             }
           }
         ],
@@ -197,6 +197,7 @@
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
     "docs/curriculum/part-1-epistemology-quantitative-foundations/alpha-break-even-fold-percentage.md",
+    "docs/curriculum/part-1-epistemology-quantitative-foundations/blockers-effect-on-betting-and-bluffing.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/using-combos-preflop-and-postflop.md",
     "docs/session-review-tool4.md",
     "/docs/session-review-tool4.md",
@@ -226,7 +227,6 @@
     "docs/curriculum/part-1-epistemology-quantitative-foundations/expected-value-ev-and-decision-theory.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/evaluating-ev-for-multiple-lines.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/converting-odds-to-percentage-and-required-equity.md",
-    "docs/curriculum/part-1-epistemology-quantitative-foundations/index.md.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations",
     "/_includes/components/footer.html",
     "/_includes/components",
