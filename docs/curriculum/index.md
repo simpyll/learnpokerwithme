@@ -1,5 +1,5 @@
 ---
-title: Curriculum
+title: 6-Max nl Hold'em Cash Game Curriculum
 nav_order: 1
 ---
 # 6-Max No-Limit Hold'em Cash Game Curriculum

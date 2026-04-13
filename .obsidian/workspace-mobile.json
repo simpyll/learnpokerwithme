@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/curriculum/part-1-epistemology-quantitative-foundations/unblocking.md",
+                "file": "docs/mental-game/index.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "unblocking"
+              "title": "index"
             }
           }
         ],
@@ -196,10 +196,14 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
-    "docs/curriculum/part-1-epistemology-quantitative-foundations/alpha-break-even-fold-percentage.md",
-    "docs/curriculum/part-1-epistemology-quantitative-foundations/unblocking.md",
-    "docs/curriculum/part-1-epistemology-quantitative-foundations/blockers-effect-on-betting-and-bluffing.md",
+    "docs/curriculum/index.md",
+    "docs/mental-game/index.md",
+    "docs/curriculum/poker-books.md",
+    "docs/mental-game",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/using-combos-preflop-and-postflop.md",
+    "docs/curriculum/part-1-epistemology-quantitative-foundations/unblocking.md",
+    "docs/curriculum/part-1-epistemology-quantitative-foundations/alpha-break-even-fold-percentage.md",
+    "docs/curriculum/part-1-epistemology-quantitative-foundations/blockers-effect-on-betting-and-bluffing.md",
     "docs/session-review-tool4.md",
     "/docs/session-review-tool4.md",
     "/docs",
@@ -214,9 +218,6 @@
     "/docs/session-review-tool.jsx",
     "docs/session-review-tool.jsx",
     "docs/poker-session-log.md",
-    "docs/curriculum/poker-books.md",
-    "docs/Untitled",
-    "docs/curriculum/index.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/the-tripartite-framework.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/the-rule-of-2-and-4.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/the-expected-value-ev-equation.md",
@@ -226,7 +227,6 @@
     "docs/curriculum/part-1-epistemology-quantitative-foundations/minimum-defense-frequency-mdf.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/factors-degrading-realized-equity-eqr.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/expected-value-ev-and-decision-theory.md",
-    "docs/curriculum/part-1-epistemology-quantitative-foundations/evaluating-ev-for-multiple-lines.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations",
     "/_includes/components/footer.html",
     "/_includes/components",
