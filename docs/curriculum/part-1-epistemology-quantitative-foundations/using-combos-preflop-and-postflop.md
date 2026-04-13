@@ -1,5 +1,5 @@
 ---
-parent: Curriculum
+parent: Part 1 - Epistemology & Quantitative Foundations
 title: 1.5.2 Using Combos Preflop and Postflop
 nav_order: 14
 ---
