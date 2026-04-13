@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/curriculum/part-1-epistemology-quantitative-foundations/using-combos-preflop-and-postflop.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -196,8 +196,9 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
-    "docs/curriculum/part-1-epistemology-quantitative-foundations/implied-odds-vs-reverse-implied-odds.md",
+    "docs/curriculum/part-1-epistemology-quantitative-foundations/calculating-hand-combinations.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/using-combos-preflop-and-postflop.md",
+    "docs/curriculum/part-1-epistemology-quantitative-foundations/implied-odds-vs-reverse-implied-odds.md",
     "docs/future-study-topics.md",
     "/docs/session-review-tool.md",
     "/docs",
@@ -220,7 +221,6 @@
     "docs/curriculum/part-1-epistemology-quantitative-foundations/factors-degrading-realized-equity-eqr.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/expected-value-ev-and-decision-theory.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/evaluating-ev-for-multiple-lines.md",
-    "docs/curriculum/part-1-epistemology-quantitative-foundations/calculating-hand-combinations.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/converting-odds-to-percentage-and-required-equity.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/index.md.md",
     "Index.md",
