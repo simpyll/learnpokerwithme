@@ -1,5 +1,5 @@
 ---
-title: Mental Game in Poker
+title: Mental Game of Poker
 nav_order: 1
 ---
 # COMPLETE MENTAL GAME CURRICULUM: NO LIMIT 6-MAX CASH  
