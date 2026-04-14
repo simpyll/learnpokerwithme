@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/mental-game/index.md",
-                "mode": "preview",
+                "file": "docs/future-study-topics.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "future-study-topics"
             }
           }
         ],
@@ -196,8 +196,13 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
-    "docs/curriculum/index.md",
+    "docs/session-review-tool-v7.mm",
+    "/docs/session-review-tool-v7.mm",
+    "/docs/curriculum/index.md",
+    "/docs/curriculum",
+    "/docs",
     "docs/mental-game/index.md",
+    "docs/curriculum/index.md",
     "docs/curriculum/poker-books.md",
     "docs/mental-game",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/using-combos-preflop-and-postflop.md",
@@ -206,7 +211,6 @@
     "docs/curriculum/part-1-epistemology-quantitative-foundations/blockers-effect-on-betting-and-bluffing.md",
     "docs/session-review-tool4.md",
     "/docs/session-review-tool4.md",
-    "/docs",
     "/docs/session-review-tool3.md",
     "docs/session-review-tool3.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/calculating-hand-combinations.md",
@@ -225,13 +229,9 @@
     "docs/curriculum/part-1-epistemology-quantitative-foundations/standard-deviation-risk-of-ruin-and-kelly-criterion.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/realized-equity-eqr-the-gap-between-raw-equity-and-ev.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/minimum-defense-frequency-mdf.md",
-    "docs/curriculum/part-1-epistemology-quantitative-foundations/factors-degrading-realized-equity-eqr.md",
-    "docs/curriculum/part-1-epistemology-quantitative-foundations/expected-value-ev-and-decision-theory.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations",
     "/_includes/components/footer.html",
     "/_includes/components",
-    "/_includes",
-    "/_includes/head_custom.html",
     "assets/images/small-image.jpg",
     "assets/images/large-image.jpg"
   ]

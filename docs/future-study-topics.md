@@ -11,6 +11,7 @@ nav_order: 3
 - flop textures 
 - Quick Reference document math ranges preflop etc.
 - donk bets
+- stack to pot ratio (SPR)
 
 ## Tools to Create 
 - Flopzilla replica
