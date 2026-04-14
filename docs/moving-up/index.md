@@ -1,6 +1,6 @@
 ---
 title: Moving Up
-nav_order: 1
+nav_order: 2
 ---
 
 **Stake Progression Protocol in 6-Max No-Limit Hold'em: 2NL Baseline to Advanced Limits**
