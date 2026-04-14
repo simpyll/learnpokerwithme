@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/curriculum/part-1-epistemology-quantitative-foundations/alpha-break-even-fold-percentage.md",
+                "file": "docs/moving-up/2nl-notes.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "alpha-break-even-fold-percentage"
+              "title": "2nl-notes"
             }
           }
         ],
@@ -196,6 +196,7 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
+    "docs/curriculum/part-1-epistemology-quantitative-foundations/alpha-break-even-fold-percentage.md",
     "docs/moving-up/2nl-notes.md",
     "docs/moving-up/2nl.md",
     "docs/pre-session-poker-checklist.md",
@@ -226,7 +227,6 @@
     "/docs/curriculum",
     "/docs",
     "docs/poker-session-log.md",
-    "docs/poker-books.md",
     "/_includes/components/sidebar.html",
     "/_includes/components",
     "/_includes",

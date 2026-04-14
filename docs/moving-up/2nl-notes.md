@@ -1,5 +1,5 @@
 ---
-title: 2 NL Noted
+title: 2 NL Notes
 nav_order: 1.5
 parent: Moving Up
 ---
@@ -7,4 +7,4 @@ parent: Moving Up
 
 
 - JJ is too weak to go all in preflop with 100bb effective stacks
-- Its okay to call 3b and 4b pots AK instead of getting it in preflop against a tef to reduce variance 
+- Its okay to call 3b and 4b pots AK instead of getting it in preflop against a reg to reduce variance 
