@@ -6,7 +6,7 @@ nav_order: 5
 
 ## Remember!
 
-You're playing this game to #1 to learn and #2 optimize decision making. You're not here to make money. 
+You're playing this game to #1 to learn and #2 to optimize decision making. You're not here to make money. 
 
 This ambition is a strategic climbing the microstakes methodology. Do not deviate from the process. 
 
