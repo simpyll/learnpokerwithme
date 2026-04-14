@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/poker-session-log.md",
-                "mode": "source",
+                "file": "docs/mental-game/index.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "poker-session-log"
+              "title": "index"
             }
           }
         ],
@@ -196,6 +196,7 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
+    "docs/poker-session-log.md",
     "/docs/poker-session-log.md",
     "/docs",
     "/_includes/components/sidebar.html",
@@ -224,7 +225,6 @@
     "docs/session-review-tool.md",
     "/_config.yml",
     "/docs/session-review-tool.jsx",
-    "docs/poker-session-log.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/the-tripartite-framework.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/the-rule-of-2-and-4.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/the-expected-value-ev-equation.md",
