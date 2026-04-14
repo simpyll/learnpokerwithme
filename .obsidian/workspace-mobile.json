@@ -196,10 +196,12 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
+    "docs/idea-dump.md",
+    "/docs/poker-session-log.md",
+    "/docs/idea-dump.md",
+    "/docs",
     "docs/mental-game/index.md",
     "docs/poker-session-log.md",
-    "/docs/poker-session-log.md",
-    "/docs",
     "/_includes/components/sidebar.html",
     "/_includes/components",
     "/_includes",
@@ -230,8 +232,6 @@
     "docs/curriculum/part-1-epistemology-quantitative-foundations/the-expected-value-ev-equation.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/the-bottom-up-learning-model.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/standard-deviation-risk-of-ruin-and-kelly-criterion.md",
-    "docs/curriculum/part-1-epistemology-quantitative-foundations/realized-equity-eqr-the-gap-between-raw-equity-and-ev.md",
-    "docs/curriculum/part-1-epistemology-quantitative-foundations/minimum-defense-frequency-mdf.md",
     "assets/images/small-image.jpg",
     "assets/images/large-image.jpg"
   ]
