@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/future-study-topics.md",
+                "file": "docs/poker-session-log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "future-study-topics"
+              "title": "poker-session-log"
             }
           }
         ],
@@ -196,11 +196,16 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
+    "/docs/poker-session-log.md",
+    "/docs",
+    "/_includes/components/sidebar.html",
+    "/_includes/components",
+    "/_includes",
+    "docs/future-study-topics.md",
     "docs/session-review-tool-v7.mm",
     "/docs/session-review-tool-v7.mm",
     "/docs/curriculum/index.md",
     "/docs/curriculum",
-    "/docs",
     "docs/mental-game/index.md",
     "docs/curriculum/index.md",
     "docs/curriculum/poker-books.md",
@@ -215,12 +220,10 @@
     "docs/session-review-tool3.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/calculating-hand-combinations.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/implied-odds-vs-reverse-implied-odds.md",
-    "docs/future-study-topics.md",
     "/docs/session-review-tool.md",
     "docs/session-review-tool.md",
     "/_config.yml",
     "/docs/session-review-tool.jsx",
-    "docs/session-review-tool.jsx",
     "docs/poker-session-log.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/the-tripartite-framework.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/the-rule-of-2-and-4.md",
@@ -229,9 +232,6 @@
     "docs/curriculum/part-1-epistemology-quantitative-foundations/standard-deviation-risk-of-ruin-and-kelly-criterion.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/realized-equity-eqr-the-gap-between-raw-equity-and-ev.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/minimum-defense-frequency-mdf.md",
-    "docs/curriculum/part-1-epistemology-quantitative-foundations",
-    "/_includes/components/footer.html",
-    "/_includes/components",
     "assets/images/small-image.jpg",
     "assets/images/large-image.jpg"
   ]
