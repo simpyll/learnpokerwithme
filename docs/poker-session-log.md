@@ -1,6 +1,5 @@
-
 ---
-title: Session Log
+title: Poker Session Log
 nav_order: 2
 ---
 
