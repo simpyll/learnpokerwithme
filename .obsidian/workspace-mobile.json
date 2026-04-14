@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/pre-session-poker-checklist.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -196,12 +196,12 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
-    "docs/poker-books.md",
+    "docs/poker-session-log.md",
     "docs/pre-session-poker-checklist.md",
+    "docs/poker-books.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/nut-vs-range-advantage-combinatorics.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/alpha-break-even-fold-percentage.md",
     "docs/idea-dump.md",
-    "docs/poker-session-log.md",
     "/docs/poker-session-log.md",
     "/docs/idea-dump.md",
     "/docs",
