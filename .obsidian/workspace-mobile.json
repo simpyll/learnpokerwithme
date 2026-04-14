@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/mental-game/index.md",
+                "file": "docs/poker-session-log.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "poker-session-log"
             }
           }
         ],
@@ -196,6 +196,7 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
+    "docs/mental-game/index.md",
     "docs/poker-session-log.md",
     "/docs/poker-session-log.md",
     "/docs",
@@ -207,7 +208,6 @@
     "/docs/session-review-tool-v7.mm",
     "/docs/curriculum/index.md",
     "/docs/curriculum",
-    "docs/mental-game/index.md",
     "docs/curriculum/index.md",
     "docs/curriculum/poker-books.md",
     "docs/mental-game",
