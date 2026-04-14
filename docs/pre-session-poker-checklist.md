@@ -3,6 +3,11 @@ title: Pre Session Checklist
 nav_order: 5
 ---
 # Pre-Session Poker Checklist
+
+## Remember!
+
+You're playing this game to #1 learn and #2 optimize decision making. You're not here to make money. 
+
 ### Mental & Physical Readiness
  * ✅ **Physical Check:** Rested, hydrated, and adequately nourished prior to initiating the session.
  * ✅ **Mental Check:** Cleared of tilt from previous sessions and free of external life stressors.
