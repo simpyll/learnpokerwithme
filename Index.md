@@ -14,7 +14,28 @@ This little piece of the internet was created as a central hub for me to learn a
 
 Specifically - 
 
-I'm interested in the very targeted niche of **Online No Limit Hold'em 6-Max Cash**. 
+I'm interested in a very specific and targeted niche:
+## No Limit Hold'em 6-Max Cash Games (Online Only)
+
+The reason I picked this game above the others is because it's what I used to play exclusively back in the golden days of online poker (2003-2008) when there were fish everywhere and winning was easy.
+
+Fast forward to 2026 and unfortunately that is no longer the case. Like many others, I quit playing poker after Black Friday and haven't thought about it much since.
+
+Since then I have gotten a real job, started a family, and live a stereotypical middle-aged white dude suburbanite lifestyle.
+
+By a stroke of luck, my interest in poker was repiqued one night when the family and I decided to play cards during our game night.
+
+I decided to throw a little money online and see what the NL holde'm six max cash games looked like today. Needless to say, I was an absolute shock by how tough these games have become relative to what they were 15 to 20 years ago.
+
+In today's environment for all intents and purposes I am currently a total noob. And that pisses me off. 
+
+It quickly became clear to me that if I am to be successful at this I'm going to have to come up with a game plan and build my game beyond simple ABC poker.
+
+This website is my "learning in public" solution to correcting this problem. 
+
+So, here's the plan:
+
+## Moving Up
 
 I'm starting at 2nl with a comfortable bankroll of $500 (250 buyins). The goal is to eventually make it to high stakes. A guy can dream right? 😄 You can view my progress in my [session log](https://learnpokerwithme.com/docs/poker-session-log).
 
