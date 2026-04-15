@@ -17,3 +17,8 @@ nav_order: 3
 ## Tools to Create 
 - Flopzilla replica
 - Session replayer
+
+## Communities
+- https://solveforwhy.io/
+- https://redchippoker.com/
+- 
