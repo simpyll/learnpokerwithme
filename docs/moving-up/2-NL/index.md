@@ -1,7 +1,7 @@
 ---
-title: 2 NL Overview
+title: 2 NL
 parent: Moving Up
-nav_order:
+nav_order: 1
 ---
 
 **Macro-Strategic Framework for $0.01/$0.02 (2NL) No-Limit Hold'em Ecosystems**
