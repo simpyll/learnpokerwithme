@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/moving-up/2-NL/index.md",
+                "file": "docs/poker-session-log.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "poker-session-log"
             }
           }
         ],
@@ -196,6 +196,7 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
+    "docs/moving-up/2-NL/session-log.md",
     "docs/moving-up/2-NL/notes.md",
     "docs/moving-up/2-NL/index.md",
     "docs/idea-dump.md",
@@ -222,7 +223,6 @@
     "/docs/moving-up/200nl.md",
     "/docs/moving-up/10nl.md",
     "/docs/moving-up/100nl.md",
-    "/docs/moving-up/1000nl.md",
     "docs/moving-up",
     "/docs/moving-up",
     "/docs/curriculum/part-1-epistemology-quantitative-foundations",

@@ -1,5 +1,5 @@
 ---
-title: 2 NL Notes
+title: Notes
 nav_order: 2
 parent: 2 NL
 ---
