@@ -23,7 +23,7 @@ Fast forward to 2026 and unfortunately that is no longer the case. Like many oth
 
 Since then I have gotten a real job, started a family, and currently live a stereotypical middle America suburbanite lifestyle.
 
-By a stroke of chance, my interest in poker was repiqued one night when the family and I decided to play cards for our game night.
+By a stroke of chance, my interest in poker was repiqued one night when the family and I decided to play cards.
 
 I decided to throw a little money online and see what the NL holde'm six max cash games looked like today. Needless to say, I was an absolute shock by how tough these games have become relative to what they were 15 to 20 years ago.
 
@@ -44,7 +44,7 @@ For now, 2 NL it is.
 
 I'll start with a comfortable bankroll of $500 (250 buyins).  You can view my progress in my [session log](https://learnpokerwithme.com/docs/poker-session-log).
 
-I'll move up once I've proved I can beat each take and move up progressively higher after 10,000 or > hands. If the previous stakes winnings don't sufficiently provide an appropriate bankroll for the next stake, I'll add more money from external sources. 
+I'll move up once I've proved I can beat each stake and move up progressively higher after 10,000 or > hands. If the previous stakes winnings don't sufficiently provide an appropriate bankroll for the next stake, I'll add more money from external sources. 
 ## Learning Strategy 
 
 Currently I'm in the process of fleshing out a 'no stone unturned' [curriculum](https://learnpokerwithme.com/docs/curriculum/) on this game. 
