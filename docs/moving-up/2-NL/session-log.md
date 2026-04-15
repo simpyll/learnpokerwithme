@@ -26,4 +26,12 @@ The following constraints are active to mitigate variance:
  
 > **Note:** External contingency funds ($500) are reserved for the 25NL entry point and are not to be utilized for 2NL or 5NL drawdowns.
 
+| Date | # of Hands | Starting Bankroll | Ending Bankroll | Net Gained/Lost | Mental State Grade |
+|---|---|---|---|---|---|
+| 2026-04-14 | — | $500.00 | — | — | — |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
