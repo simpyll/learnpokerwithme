@@ -1,5 +1,5 @@
 ---
-title: Idea Dump
+title: Links Resources and Ideas
 nav_order: 3
 ---
 
@@ -21,4 +21,15 @@ nav_order: 3
 ## Communities
 - https://solveforwhy.io/
 - https://redchippoker.com/
+
+
+## Articles
+- [HUD Setup](https://www.blackrain79.com/2013/09/how-to-optimize-your-hud-for-todays.html?m=0)
+
+## Blogs
+- [BlackRain79](https://www.blackrain79.com/?m=0)
+
+## Courses
+- [Udemy - Crushing the Microstakes Online](https://www.udemy.com/course/crush-online-micro-stakes-poker/?srsltid=AfmBOooaFWiQoo3vIEaqFQdwP5aZuKj9hZHOJpNU50XpBHinUKP1eXCx)
 - 
+
