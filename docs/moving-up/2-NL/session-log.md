@@ -1,5 +1,5 @@
 ---
-title: Poker Session Log - Climbing The Microstakes
+title: Session Log
 parent: 2 NL
 nav_order: 3
 ---

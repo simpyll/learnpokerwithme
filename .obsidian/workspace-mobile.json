@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/moving-up/2-NL/notes.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes"
+              "title": "Index"
             }
           }
         ],
@@ -196,13 +196,13 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
+    "docs/moving-up/2-NL/session-log.md",
+    "docs/moving-up/2-NL/notes.md",
     "docs/links-resources-ideas.md",
     "docs/pre-session-poker-checklist.md",
     "docs/moving-up/50nl.md",
     "docs/poker-books.md",
     "docs/poker-session-log.md",
-    "docs/moving-up/2-NL/session-log.md",
-    "docs/moving-up/2-NL/notes.md",
     "docs/moving-up/2-NL/index.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/index.md",
     "docs/moving-up/index.md",
