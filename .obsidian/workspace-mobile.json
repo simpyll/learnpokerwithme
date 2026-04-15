@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/poker-session-log.md",
+                "file": "docs/idea-dump.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "poker-session-log"
+              "title": "idea-dump"
             }
           }
         ],
@@ -196,10 +196,12 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
-    "docs/moving-up/2 NL/2nl-notes.md",
-    "docs/moving-up/2 NL/index.md.md",
-    "docs/moving-up/2 NL",
+    "docs/moving-up/2-NL/2nl-notes.md",
+    "docs/moving-up/2-NL/index.md.md",
+    "docs/curriculum/part-1-epistemology-quantitative-foundations/index.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/alpha-break-even-fold-percentage.md",
+    "docs/poker-session-log.md",
+    "docs/moving-up/2-NL",
     "docs/pre-session-poker-checklist.md",
     "docs/moving-up/index.md",
     "docs/moving-up/5nl.md",
@@ -220,7 +222,6 @@
     "/docs/moving-up/10nl.md",
     "/docs/moving-up/100nl.md",
     "/docs/moving-up/1000nl.md",
-    "docs/curriculum/part-1-epistemology-quantitative-foundations/index.md",
     "/docs/curriculum/part-1-epistemology-quantitative-foundations/index.md",
     "docs/moving-up",
     "/docs/moving-up",

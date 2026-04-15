@@ -1,7 +1,7 @@
 ---
 title: 2 NL Notes
 nav_order: 1
-parent: 2 NL
+parent: 2 NL Overview
 ---
 ## Notes and Observations to Optimize 2 NL play
 

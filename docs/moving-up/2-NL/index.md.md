@@ -1,6 +1,6 @@
 ---
 title: 2 NL Overview
-parent: 2 NL
+parent: Moving Up
 nav_order:
 ---
 
