@@ -21,23 +21,31 @@ The reason I picked this game above the others is because it's what I used to pl
 
 Fast forward to 2026 and unfortunately that is no longer the case. Like many others, I quit playing poker after Black Friday and haven't thought about it much since.
 
-Since then I have gotten a real job, started a family, and live a stereotypical middle-aged white dude suburbanite lifestyle.
+Since then I have gotten a real job, started a family, and currently live a stereotypical middle America suburbanite lifestyle.
 
-By a stroke of luck, my interest in poker was repiqued one night when the family and I decided to play cards during our game night.
+By a stroke of chance, my interest in poker was repiqued one night when the family and I decided to play cards for our game night.
 
 I decided to throw a little money online and see what the NL holde'm six max cash games looked like today. Needless to say, I was an absolute shock by how tough these games have become relative to what they were 15 to 20 years ago.
 
-In today's environment for all intents and purposes I am currently a total noob. And that pisses me off. 
+In today's environment, for all intents and purposes, I am currently a total noob - and that pisses me off. 
 
 It quickly became clear to me that if I am to be successful at this I'm going to have to come up with a game plan and build my game beyond simple ABC poker.
 
-This website is my "learning in public" solution to correcting this problem. 
+This website is my "learning in public" solution to getting good at modern day online poker.
 
 So, here's the plan:
+## Moving Up In Stakes
 
-## Moving Up
+I'm starting at 2nl, because why not?
 
-I'm starting at 2nl with a comfortable bankroll of $500 (250 buyins). The goal is to eventually make it to high stakes. A guy can dream right? 😄 You can view my progress in my [session log](https://learnpokerwithme.com/docs/poker-session-log).
+I make way more money working my normal job than I ever will playing poker. I'm not delusional. The goal here is to learn and improve, not to make and risk large sums of money. 
+
+For now, 2 NL it is.
+
+I'll start with a comfortable bankroll of $500 (250 buyins).  You can view my progress in my [session log](https://learnpokerwithme.com/docs/poker-session-log).
+
+I'll move up once I've proved I can beat each take and move up progressively higher after 10,000 or > hands. If the previous stakes winnings don't sufficiently provide an appropriate bankroll for the next stake, I'll add more money from external sources. 
+## Learning Strategy 
 
 Currently I'm in the process of fleshing out a 'no stone unturned' [curriculum](https://learnpokerwithme.com/docs/curriculum/) on this game. 
 
