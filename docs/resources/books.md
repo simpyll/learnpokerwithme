@@ -14,3 +14,9 @@ nav_order: 4
 - The Grinders Manual - *Peter Clarke*
 - Modern Poker Theory: Building an unbeatable strategy based on GTO principles - *Michael Acevedo*
 ### Read
+
+None Yet
+
+## Book Recommendation Articles 
+
+- [Why Are You Still Reading?](https://globalpokersites.com/articles/why-are-you-still-reading-the-2025-poker-bookshelf-for-players-who-still-think-p)
