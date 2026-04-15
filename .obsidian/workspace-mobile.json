@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/moving-up/50nl.md",
+                "file": "docs/pre-session-poker-checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "50nl"
+              "title": "pre-session-poker-checklist"
             }
           }
         ],
@@ -196,6 +196,7 @@
   },
   "active": "0767e69ab83f4bb3",
   "lastOpenFiles": [
+    "docs/moving-up/50nl.md",
     "docs/pre-session-poker-checklist.md",
     "docs/poker-books.md",
     "docs/poker-session-log.md",
@@ -208,7 +209,6 @@
     "docs/curriculum/part-1-epistemology-quantitative-foundations/alpha-break-even-fold-percentage.md",
     "docs/moving-up/2-NL",
     "docs/moving-up/5nl.md",
-    "docs/moving-up/50nl.md",
     "docs/moving-up/500nl.md",
     "docs/moving-up/25nl.md",
     "docs/moving-up/200nl.md",
