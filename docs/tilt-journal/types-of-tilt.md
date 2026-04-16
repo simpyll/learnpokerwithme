@@ -1,6 +1,10 @@
 ---
 title: Types Of Tilt
+parent: Tilt Journal
 ---
+
+## Types of Tilt
+
 - **Injustice Tilt:** Acknowledge statistical variance rather than adopting a victim mentality regarding standard probabilistic distributions.
     
 - **Hate-Losing Tilt:** Accept the mathematical inevitability of negative short-term outcomes within an optimal strategic framework.
