@@ -1,9 +1,8 @@
 ---
 title: Mental Game
-nav_order: 1
+nav_order: 2
 ---
 # COMPLETE MENTAL GAME CURRICULUM: NO LIMIT 6-MAX CASH  
-## EXHAUSTIVE TOPICAL OUTLINE – NO STONE UNTURNED
 
 ### I. FOUNDATIONAL PHILOSOPHY & PRE-COMMITMENT FRAMEWORK
 - A. The 6-Max Environment: Psychological Demands
