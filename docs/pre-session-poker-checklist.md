@@ -8,7 +8,7 @@ nav_order: 5
 
 You're playing this game to #1 to learn and #2 to optimize decision making. You're not here to make money. 
 
-This ambition is a strategic climbing the microstakes methodology. Do not deviate from the process. 
+This ambition is a strategic approach to climbing the microstakes methodology. Do not deviate from the process. 
 
 ### Mental & Physical Readiness
  * ✅ **Physical Check:** Rested, hydrated, and adequately nourished prior to initiating the session.
