@@ -1,3 +1,7 @@
+---
+title: Tilt RCA Process
+parent: Tilt Journal
+---
 
 
 ## 1. Describe the problem.
@@ -9,7 +13,7 @@ For example, you always expect to win against Bad players or when you're running
 
 ## 3. Why is that logic flawed?
 
-For example, you're ignoring the realities of Poker. No one can always win against fish. You believe that you are more in control of the outcome than you actually are. You have an illusion of control
+For example, you're ignoring the realities of Poker. No one can always wingit  against fish. You believe that you are more in control of the outcome than you actually are. You have an illusion of control
 
 2. What is the correct way to handle the situation?
 3. Why is that correction correct?
