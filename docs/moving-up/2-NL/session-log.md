@@ -29,7 +29,7 @@ The following constraints are active to mitigate variance:
 | Date    | # of Hands | Starting Bankroll | Ending Bankroll | Net Gained/Lost | Mental State Grade |
 | ------- | ---------- | ----------------- | --------------- | --------------- | ------------------ |
 | 4/15/26 | 296        | $500              | $501.27         | $1.27           | B                  |
-|         |            |                   |                 |                 |                    |
+| 4/16/25 | 209        | $501.27           | $498.41         | -$2.86          | C                  |
 |         |            |                   |                 |                 |                    |
 |         |            |                   |                 |                 |                    |
 |         |            |                   |                 |                 |                    |
