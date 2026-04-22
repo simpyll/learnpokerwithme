@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/curriculum/part 2-preflop-architecture/positional-gradient.md",
+                "file": "docs/curriculum/part 2-preflop-architecture/rake-structure-impact-on-rfi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "positional-gradient"
+              "title": "rake-structure-impact-on-rfi"
             }
           }
         ]
@@ -168,8 +168,9 @@
   },
   "active": "b7d3fd872b5e7d9f",
   "lastOpenFiles": [
-    "docs/curriculum/part 2-preflop-architecture/rating-starting-hands.md",
     "docs/curriculum/part 2-preflop-architecture/positional-gradient.md",
+    "docs/curriculum/part 2-preflop-architecture/rake-structure-impact-on-rfi.md",
+    "docs/curriculum/part 2-preflop-architecture/rating-starting-hands.md",
     "docs/curriculum/part 2-preflop-architecture/index.md",
     "docs/curriculum/index.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/alpha-break-even-fold-percentage.md",
@@ -202,7 +203,6 @@
     "docs/resources/books.md",
     "docs/resources/blogs.md",
     "docs/resources/articles.md",
-    "docs/pre-session-poker-checklist.md",
-    "docs/moving-up/index.md"
+    "docs/pre-session-poker-checklist.md"
   ]
 }
