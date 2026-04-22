@@ -3,12 +3,6 @@ title: Part 2 - Preflop Architecture
 nav_order: 2
 parent: Curriculum
 ---
----
-parent: Curriculum
-title: Part 2 Preflop Architecture
-nav_order: 18
----
-
 # Part 2: Preflop Architecture
 
 ## I. Epistemological Framework of Preflop Architecture
