@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/curriculum/part 2-preflop-architecture/index.md",
+                "file": "docs/curriculum/part 2-preflop-architecture/positional-gradient.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "positional-gradient"
             }
           }
         ]
@@ -169,10 +169,12 @@
   "active": "b7d3fd872b5e7d9f",
   "lastOpenFiles": [
     "docs/curriculum/part 2-preflop-architecture/rating-starting-hands.md",
+    "docs/curriculum/part 2-preflop-architecture/positional-gradient.md",
     "docs/curriculum/part 2-preflop-architecture/index.md",
+    "docs/curriculum/index.md",
+    "docs/curriculum/part-1-epistemology-quantitative-foundations/alpha-break-even-fold-percentage.md",
     "docs/curriculum/part-1-epistemology-quantitative-foundations/index.md",
     "docs/curriculum/part 2-preflop-architecture",
-    "docs/curriculum/index.md",
     "spec/support/spec_summary.rb",
     "spec/support/jekyll.rb",
     "spec/spec_helper.rb",
@@ -201,8 +203,6 @@
     "docs/resources/blogs.md",
     "docs/resources/articles.md",
     "docs/pre-session-poker-checklist.md",
-    "docs/moving-up/index.md",
-    "docs/moving-up/5nl.md",
-    "docs/moving-up/50nl.md"
+    "docs/moving-up/index.md"
   ]
 }

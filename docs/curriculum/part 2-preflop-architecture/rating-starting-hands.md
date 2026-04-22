@@ -1,5 +1,5 @@
 ---
-parent: Curriculum
+parent: Part 2 - Preflop Architecture
 title: 2.1.1 Rating Starting Hands
 nav_order: 2
 ---
