@@ -168,6 +168,13 @@
   },
   "active": "b7d3fd872b5e7d9f",
   "lastOpenFiles": [
+    "/docs/tilt-journal/4-22-26.md",
+    "docs/tilt-journal/4-22-26.md",
+    "/docs/tilt-journal",
+    "/docs/moving-up/2-NL/session-log.md",
+    "/docs/moving-up/2-NL",
+    "/docs/moving-up",
+    "/docs",
     "docs/curriculum/part 2-preflop-architecture/rake-structure-impact-on-rfi.md",
     "docs/curriculum/part 2-preflop-architecture/positional-gradient.md",
     "docs/curriculum/part 2-preflop-architecture/rating-starting-hands.md",
@@ -181,10 +188,6 @@
     "spec/spec_helper.rb",
     "spec/accessibility_spec.rb",
     "package.json",
-    "package-lock.json",
-    "lib/tasks/search.rake",
-    "just-the-docs.gemspec",
-    "fixtures/html5validator-config.yml",
     "fixtures/README.md",
     "docs/tilt-journal/types-of-tilt.md",
     "docs/tilt-journal/rca-process.md",
@@ -200,9 +203,6 @@
     "docs/resources/idea-dump.md",
     "docs/resources/courses.md",
     "docs/resources/communities.md",
-    "docs/resources/books.md",
-    "docs/resources/blogs.md",
-    "docs/resources/articles.md",
-    "docs/pre-session-poker-checklist.md"
+    "docs/resources/books.md"
   ]
 }
