@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/tilt-journal/4-21-26.md",
+                "file": "docs/curriculum/part 2-preflop-architecture/range-construction-and-precise-frequency-targets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4-21-26"
+              "title": "range-construction-and-precise-frequency-targets"
             }
           }
         ]
@@ -168,6 +168,8 @@
   },
   "active": "b7d3fd872b5e7d9f",
   "lastOpenFiles": [
+    "docs/tilt-journal/4-21-26.md",
+    "docs/curriculum/part 2-preflop-architecture/range-construction-and-precise-frequency-targets.md",
     "/docs/tilt-journal/4-22-26.md",
     "docs/tilt-journal/4-22-26.md",
     "/docs/tilt-journal",
@@ -195,14 +197,12 @@
     "docs/tilt-journal/4-20-26.md",
     "docs/tilt-journal/4-17-26.md",
     "docs/tilt-journal/4-16-26.md",
-    "docs/tilt-journal/4-21-26.md",
     "docs/resources/topics.md",
     "docs/resources/terms.md",
     "docs/resources/software.md",
     "docs/resources/index.md",
     "docs/resources/idea-dump.md",
     "docs/resources/courses.md",
-    "docs/resources/communities.md",
-    "docs/resources/books.md"
+    "docs/resources/communities.md"
   ]
 }
