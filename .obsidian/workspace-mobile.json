@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/curriculum/part 2-preflop-architecture/range-construction-and-precise-frequency-targets.md",
+                "file": "docs/curriculum/part 2-preflop-architecture/rake-adjusted-range-compression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "range-construction-and-precise-frequency-targets"
+              "title": "rake-adjusted-range-compression"
             }
           }
         ]
@@ -168,15 +168,18 @@
   },
   "active": "b7d3fd872b5e7d9f",
   "lastOpenFiles": [
-    "docs/tilt-journal/4-21-26.md",
-    "docs/curriculum/part 2-preflop-architecture/range-construction-and-precise-frequency-targets.md",
-    "/docs/tilt-journal/4-22-26.md",
-    "docs/tilt-journal/4-22-26.md",
+    "/docs/tilt-journal/4-23-26.md",
+    "docs/tilt-journal/4-23-26.md",
     "/docs/tilt-journal",
     "/docs/moving-up/2-NL/session-log.md",
     "/docs/moving-up/2-NL",
     "/docs/moving-up",
     "/docs",
+    "docs/curriculum/part 2-preflop-architecture/range-construction-and-precise-frequency-targets.md",
+    "docs/curriculum/part 2-preflop-architecture/rake-adjusted-range-compression.md",
+    "docs/tilt-journal/4-21-26.md",
+    "/docs/tilt-journal/4-22-26.md",
+    "docs/tilt-journal/4-22-26.md",
     "docs/curriculum/part 2-preflop-architecture/rake-structure-impact-on-rfi.md",
     "docs/curriculum/part 2-preflop-architecture/positional-gradient.md",
     "docs/curriculum/part 2-preflop-architecture/rating-starting-hands.md",
@@ -200,9 +203,6 @@
     "docs/resources/topics.md",
     "docs/resources/terms.md",
     "docs/resources/software.md",
-    "docs/resources/index.md",
-    "docs/resources/idea-dump.md",
-    "docs/resources/courses.md",
-    "docs/resources/communities.md"
+    "docs/resources/index.md"
   ]
 }
