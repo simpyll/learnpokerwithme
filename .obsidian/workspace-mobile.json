@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/curriculum/part 2-preflop-architecture/rake-adjusted-range-compression.md",
+                "file": "docs/curriculum/part 2-preflop-architecture/the-micro-stakes-rfi-subset.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rake-adjusted-range-compression"
+              "title": "the-micro-stakes-rfi-subset"
             }
           }
         ]
@@ -168,15 +168,16 @@
   },
   "active": "b7d3fd872b5e7d9f",
   "lastOpenFiles": [
-    "/docs/tilt-journal/4-23-26.md",
-    "docs/tilt-journal/4-23-26.md",
-    "/docs/tilt-journal",
     "/docs/moving-up/2-NL/session-log.md",
     "/docs/moving-up/2-NL",
     "/docs/moving-up",
     "/docs",
-    "docs/curriculum/part 2-preflop-architecture/range-construction-and-precise-frequency-targets.md",
     "docs/curriculum/part 2-preflop-architecture/rake-adjusted-range-compression.md",
+    "docs/curriculum/part 2-preflop-architecture/the-micro-stakes-rfi-subset.md",
+    "/docs/tilt-journal/4-23-26.md",
+    "docs/tilt-journal/4-23-26.md",
+    "/docs/tilt-journal",
+    "docs/curriculum/part 2-preflop-architecture/range-construction-and-precise-frequency-targets.md",
     "docs/tilt-journal/4-21-26.md",
     "/docs/tilt-journal/4-22-26.md",
     "docs/tilt-journal/4-22-26.md",
@@ -201,8 +202,6 @@
     "docs/tilt-journal/4-17-26.md",
     "docs/tilt-journal/4-16-26.md",
     "docs/resources/topics.md",
-    "docs/resources/terms.md",
-    "docs/resources/software.md",
-    "docs/resources/index.md"
+    "docs/resources/terms.md"
   ]
 }
